@@ -1,1 +1,1 @@
-# task-4
+This project implements a neural network-based language model that predicts the next word in a given sequence of text. It is trained on a natural language corpus and can be used to generate text in an autoregressive manner.
